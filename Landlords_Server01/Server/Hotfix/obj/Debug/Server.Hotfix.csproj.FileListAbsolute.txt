@@ -1,0 +1,12 @@
+D:\unity3dwork\ACYQP\Landlords_Server01\Bin\libkcp.dylib
+D:\unity3dwork\ACYQP\Landlords_Server01\Bin\libkcp.so
+D:\unity3dwork\ACYQP\Landlords_Server01\Bin\Hotfix.deps.json
+D:\unity3dwork\ACYQP\Landlords_Server01\Bin\Hotfix.dll
+D:\unity3dwork\ACYQP\Landlords_Server01\Bin\Hotfix.pdb
+D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\obj\Debug\Server.Hotfix.csprojAssemblyReference.cache
+D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\obj\Debug\Server.Hotfix.AssemblyInfoInputs.cache
+D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\obj\Debug\Server.Hotfix.AssemblyInfo.cs
+D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\obj\Debug\Server.Hotfix.csproj.CoreCompileInputs.cache
+D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\obj\Debug\Server.Hotfix.csproj.CopyComplete
+D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\obj\Debug\Hotfix.dll
+D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\obj\Debug\Hotfix.pdb

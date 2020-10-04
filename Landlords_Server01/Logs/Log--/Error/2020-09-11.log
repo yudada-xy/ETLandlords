@@ -1,0 +1,13 @@
+2020-09-11 14:23:04.0287   System.IO.FileNotFoundException: Could not find file 'D:\unity3dwork\ACYQP\Landlords_Server01\Bin\Hotfix.dll'.
+File name: 'D:\unity3dwork\ACYQP\Landlords_Server01\Bin\Hotfix.dll'
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.IO.File.ReadAllBytes(String path)
+   at ETModel.DllHelper.GetHotfixAssembly() in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Helper\DllHelper.cs:line 10
+   at App.Program.Main(String[] args) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\App\Program.cs:line 18 
+ Main at offset 232 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\App\Program.cs:18:5
+Error at offset 132 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Log.cs:32:4
+Error at offset 58 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+

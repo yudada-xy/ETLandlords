@@ -1,0 +1,64 @@
+2020-09-11 14:14:07.6473 AllServer 0001 System.MissingMethodException: Method not found: 'Int64 ETModel.UserInfo.get_Money()'.
+   at ETHotfix.A1001_GetUserInfo_Handler.Run(Session session, A1001_GetUserInfo_C2G request, A1001_GetUserInfo_G2C response, Action reply)
+   at ETModel.AsyncETTaskMethodBuilder.Start[TStateMachine](TStateMachine& stateMachine) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\AsyncETTaskMethodBuilder.cs:line 126
+   at ETHotfix.A1001_GetUserInfo_Handler.Run(Session session, A1001_GetUserInfo_C2G request, A1001_GetUserInfo_G2C response, Action reply)
+   at ETModel.AMRpcHandler`2.Handle(Session session, Object message) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\AMRpcHandler.cs:line 45 
+ Dispatch at offset 85 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\Message\OuterMessageDispatcher.cs:9:4
+DispatchAsync at offset 259 in file:line:column <filename unknown>:0:0
+Start<TStateMachine> at offset 68 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\AsyncETVoidMethodBuilder.cs:74:13
+MoveNext at offset 2354 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\Message\OuterMessageDispatcher.cs:82:7
+Handle at offset 492 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\Message\MessageDispatherComponentSystem.cs:92:6
+Handle at offset 367 in file:line:column <filename unknown>:0:0
+Start<TStateMachine> at offset 68 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\AsyncETVoidMethodBuilder.cs:74:13
+MoveNext at offset 1382 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\AMRpcHandler.cs:45:6
+Error at offset 112 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Log.cs:32:4
+Error at offset 58 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+
+2020-09-11 14:16:45.3943 AllServer 0001 System.MissingMethodException: Method not found: 'Int64 ETModel.UserInfo.get_Money()'.
+   at ETHotfix.A1001_GetUserInfo_Handler.Run(Session session, A1001_GetUserInfo_C2G request, A1001_GetUserInfo_G2C response, Action reply)
+   at ETModel.AsyncETTaskMethodBuilder.Start[TStateMachine](TStateMachine& stateMachine) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\AsyncETTaskMethodBuilder.cs:line 126
+   at ETHotfix.A1001_GetUserInfo_Handler.Run(Session session, A1001_GetUserInfo_C2G request, A1001_GetUserInfo_G2C response, Action reply)
+   at ETModel.AMRpcHandler`2.Handle(Session session, Object message) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\AMRpcHandler.cs:line 45 
+ Dispatch at offset 85 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\Message\OuterMessageDispatcher.cs:9:4
+DispatchAsync at offset 259 in file:line:column <filename unknown>:0:0
+Start<TStateMachine> at offset 68 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\AsyncETVoidMethodBuilder.cs:74:13
+MoveNext at offset 2354 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\Message\OuterMessageDispatcher.cs:82:7
+Handle at offset 492 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\Message\MessageDispatherComponentSystem.cs:92:6
+Handle at offset 367 in file:line:column <filename unknown>:0:0
+Start<TStateMachine> at offset 68 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\AsyncETVoidMethodBuilder.cs:74:13
+MoveNext at offset 1382 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\AMRpcHandler.cs:45:6
+Error at offset 112 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Log.cs:32:4
+Error at offset 58 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+
+2020-09-11 14:18:14.5317 AllServer 0001 System.MissingMethodException: Method not found: 'Int64 ETModel.UserInfo.get_Money()'.
+   at ETHotfix.A1001_GetUserInfo_Handler.Run(Session session, A1001_GetUserInfo_C2G request, A1001_GetUserInfo_G2C response, Action reply)
+   at ETModel.AsyncETTaskMethodBuilder.Start[TStateMachine](TStateMachine& stateMachine) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\AsyncETTaskMethodBuilder.cs:line 126
+   at ETHotfix.A1001_GetUserInfo_Handler.Run(Session session, A1001_GetUserInfo_C2G request, A1001_GetUserInfo_G2C response, Action reply)
+   at ETModel.AMRpcHandler`2.Handle(Session session, Object message) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\AMRpcHandler.cs:line 45 
+ Dispatch at offset 85 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\Message\OuterMessageDispatcher.cs:9:4
+DispatchAsync at offset 259 in file:line:column <filename unknown>:0:0
+Start<TStateMachine> at offset 68 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\AsyncETVoidMethodBuilder.cs:74:13
+MoveNext at offset 2354 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\Message\OuterMessageDispatcher.cs:82:7
+Handle at offset 492 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\Message\MessageDispatherComponentSystem.cs:92:6
+Handle at offset 367 in file:line:column <filename unknown>:0:0
+Start<TStateMachine> at offset 68 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\AsyncETVoidMethodBuilder.cs:74:13
+MoveNext at offset 1382 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\AMRpcHandler.cs:45:6
+Error at offset 112 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Log.cs:32:4
+Error at offset 58 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+
+2020-09-11 14:22:29.1010 AllServer 0001 System.MissingMethodException: Method not found: 'Int64 ETModel.UserInfo.get_Money()'.
+   at ETHotfix.A1001_GetUserInfo_Handler.Run(Session session, A1001_GetUserInfo_C2G request, A1001_GetUserInfo_G2C response, Action reply)
+   at ETModel.AsyncETTaskMethodBuilder.Start[TStateMachine](TStateMachine& stateMachine) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\AsyncETTaskMethodBuilder.cs:line 126
+   at ETHotfix.A1001_GetUserInfo_Handler.Run(Session session, A1001_GetUserInfo_C2G request, A1001_GetUserInfo_G2C response, Action reply)
+   at ETModel.AMRpcHandler`2.Handle(Session session, Object message) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\AMRpcHandler.cs:line 45 
+ Dispatch at offset 85 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\Message\OuterMessageDispatcher.cs:9:4
+DispatchAsync at offset 259 in file:line:column <filename unknown>:0:0
+Start<TStateMachine> at offset 68 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\AsyncETVoidMethodBuilder.cs:74:13
+MoveNext at offset 2354 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\Message\OuterMessageDispatcher.cs:82:7
+Handle at offset 492 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\Message\MessageDispatherComponentSystem.cs:92:6
+Handle at offset 367 in file:line:column <filename unknown>:0:0
+Start<TStateMachine> at offset 68 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\AsyncETVoidMethodBuilder.cs:74:13
+MoveNext at offset 1382 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\AMRpcHandler.cs:45:6
+Error at offset 112 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Log.cs:32:4
+Error at offset 58 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+

@@ -1,0 +1,17 @@
+D:\unity3dwork\ACYQP\Landlords_Server01\Bin\libkcp.dylib
+D:\unity3dwork\ACYQP\Landlords_Server01\Bin\libkcp.so
+D:\unity3dwork\ACYQP\Landlords_Server01\Bin\NLog.config
+D:\unity3dwork\ACYQP\Landlords_Server01\Bin\App.dll.config
+D:\unity3dwork\ACYQP\Landlords_Server01\Bin\App.deps.json
+D:\unity3dwork\ACYQP\Landlords_Server01\Bin\App.runtimeconfig.json
+D:\unity3dwork\ACYQP\Landlords_Server01\Bin\App.runtimeconfig.dev.json
+D:\unity3dwork\ACYQP\Landlords_Server01\Bin\App.dll
+D:\unity3dwork\ACYQP\Landlords_Server01\Bin\App.pdb
+D:\unity3dwork\ACYQP\Landlords_Server01\Server\App\obj\Debug\Server.App.csprojAssemblyReference.cache
+D:\unity3dwork\ACYQP\Landlords_Server01\Server\App\obj\Debug\Server.App.AssemblyInfoInputs.cache
+D:\unity3dwork\ACYQP\Landlords_Server01\Server\App\obj\Debug\Server.App.AssemblyInfo.cs
+D:\unity3dwork\ACYQP\Landlords_Server01\Server\App\obj\Debug\Server.App.csproj.CoreCompileInputs.cache
+D:\unity3dwork\ACYQP\Landlords_Server01\Server\App\obj\Debug\Server.App.csproj.CopyComplete
+D:\unity3dwork\ACYQP\Landlords_Server01\Server\App\obj\Debug\App.dll
+D:\unity3dwork\ACYQP\Landlords_Server01\Server\App\obj\Debug\App.pdb
+D:\unity3dwork\ACYQP\Landlords_Server01\Server\App\obj\Debug\Server.App.genruntimeconfig.cache

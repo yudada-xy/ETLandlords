@@ -1,0 +1,23 @@
+2020-07-30 14:31:55.4622 AllServer 0001 (Program.cs:36) server start........................ 1 AllServer
+2020-07-30 14:58:45.7710 AllServer 0001 (Program.cs:36) server start........................ 1 AllServer
+2020-07-30 15:02:19.1747 AllServer 0001 (Program.cs:36) server start........................ 1 AllServer
+2020-07-30 15:04:20.8190 AllServer 0001 (Program.cs:36) server start........................ 1 AllServer
+2020-07-30 15:14:34.0418 AllServer 0001 (Program.cs:36) server start........................ 1 AllServer
+2020-07-30 15:25:37.3886 AllServer 0001 (Program.cs:36) server start........................ 1 AllServer
+2020-07-30 15:26:49.5962 AllServer 0001 (Program.cs:36) server start........................ 1 AllServer
+2020-07-30 16:02:18.4358 AllServer 0001 (Program.cs:36) server start........................ 1 AllServer
+2020-07-30 16:02:55.5182 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101596092674
+2020-07-30 16:02:55.5182 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101596092674连接断开
+2020-07-30 16:02:55.5182 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101596092674下线
+2020-07-30 16:03:15.3721 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101596092674
+2020-07-30 16:49:00.0093 AllServer 0001 (Program.cs:36) server start........................ 1 AllServer
+2020-07-30 16:50:53.1296 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101596092674
+2020-07-30 16:50:53.2447 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101596092674连接断开
+2020-07-30 16:50:53.2513 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101596092674下线
+2020-07-30 17:41:49.5200 AllServer 0001 (Program.cs:36) server start........................ 1 AllServer
+2020-07-30 17:43:14.1744 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101596092674
+2020-07-30 17:43:14.1744 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101596092674连接断开
+2020-07-30 17:43:14.1949 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101596092674下线
+2020-07-30 17:44:24.0150 AllServer 0001 (Program.cs:36) server start........................ 1 AllServer
+2020-07-30 17:51:39.2589 AllServer 0001 (Program.cs:36) server start........................ 1 AllServer
+2020-07-30 17:53:10.7505 AllServer 0001 (Program.cs:36) server start........................ 1 AllServer

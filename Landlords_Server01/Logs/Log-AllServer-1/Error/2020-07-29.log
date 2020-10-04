@@ -1,0 +1,273 @@
+2020-07-29 14:08:57.6227 AllServer 0001 重复登录！ 
+ Handle at offset 504 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\Message\MessageDispatherComponentSystem.cs:92:6
+Handle at offset 373 in file:line:column <filename unknown>:0:0
+Start<TStateMachine> at offset 80 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\AsyncETVoidMethodBuilder.cs:74:13
+MoveNext at offset 1394 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\AMRpcHandler.cs:45:6
+Run at offset 296 in file:line:column <filename unknown>:0:0
+Start<TStateMachine> at offset 80 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\AsyncETTaskMethodBuilder.cs:126:13
+MoveNext at offset 609 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Landlords\Handler\Gate\A0003_LoginGateHanler.cs:34:17
+Add at offset 210 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\LandLords\Component\UserComponent.cs:25:17
+Error at offset 82 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Log.cs:37:4
+Error at offset 64 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+
+2020-07-29 14:12:16.7085 AllServer 0001 重复登录！ 
+ Handle at offset 504 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\Message\MessageDispatherComponentSystem.cs:92:6
+Handle at offset 373 in file:line:column <filename unknown>:0:0
+Start<TStateMachine> at offset 80 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\AsyncETVoidMethodBuilder.cs:74:13
+MoveNext at offset 1394 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\AMRpcHandler.cs:45:6
+Run at offset 296 in file:line:column <filename unknown>:0:0
+Start<TStateMachine> at offset 80 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\AsyncETTaskMethodBuilder.cs:126:13
+MoveNext at offset 609 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Landlords\Handler\Gate\A0003_LoginGateHanler.cs:34:17
+Add at offset 210 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\LandLords\Component\UserComponent.cs:25:17
+Error at offset 82 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Log.cs:37:4
+Error at offset 64 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+
+2020-07-29 14:18:43.2155 AllServer 0001 System.Exception: 查询数据库异常! UserInfo 101594971168 ---> System.FormatException: An error occurred while deserializing the Phone property of class ETModel.UserInfo: Cannot deserialize a 'String' from BsonType 'Int64'. ---> System.FormatException: Cannot deserialize a 'String' from BsonType 'Int64'.
+   at MongoDB.Bson.Serialization.Serializers.StringSerializer.DeserializeValue(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\Serializers\StringSerializer.cs:line 103
+   at MongoDB.Bson.Serialization.Serializers.SealedClassSerializerBase`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\Serializers\SealedClassSerializerBase.cs:line 42
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeMemberValue(BsonDeserializationContext context, BsonMemberMap memberMap) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 555
+   --- End of inner exception stack trace ---
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeMemberValue(BsonDeserializationContext context, BsonMemberMap memberMap) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 562
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 175
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 105
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize[TValue](IBsonSerializer`1 serializer, BsonDeserializationContext context) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 49
+   at MongoDB.Driver.Core.Operations.CursorBatchDeserializationHelper.DeserializeBatch[TDocument](RawBsonArray batch, IBsonSerializer`1 documentSerializer, MessageEncoderSettings messageEncoderSettings) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\Core\Operations\CursorBatchDeserializationHelper.cs:line 59
+   at MongoDB.Driver.Core.Operations.FindCommandOperation`1.CreateCursorBatch(BsonDocument commandResult) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\Core\Operations\FindCommandOperation.cs:line 483
+   at MongoDB.Driver.Core.Operations.FindCommandOperation`1.CreateCursor(IChannelSourceHandle channelSource, BsonDocument commandResult) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\Core\Operations\FindCommandOperation.cs:line 460
+   at MongoDB.Driver.Core.Operations.FindCommandOperation`1.ExecuteAsync(IReadBinding binding, CancellationToken cancellationToken) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\Core\Operations\FindCommandOperation.cs:line 525
+   at MongoDB.Driver.Core.Operations.FindOperation`1.ExecuteAsync(IReadBinding binding, CancellationToken cancellationToken) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\Core\Operations\FindOperation.cs:line 442
+   at MongoDB.Driver.OperationExecutor.ExecuteReadOperationAsync[TResult](IReadBinding binding, IReadOperation`1 operation, CancellationToken cancellationToken) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\OperationExecutor.cs:line 39
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperationAsync[TResult](IClientSessionHandle session, IReadOperation`1 operation, ReadPreference readPreference, CancellationToken cancellationToken) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\MongoCollectionImpl.cs:line 1055
+   at MongoDB.Driver.MongoCollectionImpl`1.UsingImplicitSessionAsync[TResult](Func`2 funcAsync, CancellationToken cancellationToken) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\MongoCollectionImpl.cs:line 1135
+   at ETModel.DBQueryTask.Run() in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\DB\DBQueryTask.cs:line 37
+   --- End of inner exception stack trace ---
+   at ETHotfix.DBQueryRequestHandler.Run(Session session, DBQueryRequest request, DBQueryResponse response, Action reply) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\DB\DBQueryRequestHandler.cs:line 14 
+ TrySetException at offset 127 in file:line:column <filename unknown>:0:0
+FinishSlow at offset 24 in file:line:column <filename unknown>:0:0
+RunContinuations at offset 440 in file:line:column <filename unknown>:0:0
+RunCallback at offset 71 in file:line:column <filename unknown>:0:0
+<OutputWaitEtwEvents>b__12_0 at offset 323 in file:line:column <filename unknown>:0:0
+Run at offset 73 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\MoveNextRunner.cs:12:13
+MoveNext at offset 548 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\DB\DBQueryRequestHandler.cs:14:5
+ReplyError at offset 75 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\AMRpcHandler.cs:9:4
+Error at offset 124 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Log.cs:32:4
+Error at offset 64 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+
+2020-07-29 14:18:43.4283 AllServer 0001 System.Exception: Rpc Error: ETModel.DBQueryRequest 102001
+   at ETModel.ETTaskCompletionSource`1.ETModel.IAwaiter<T>.GetResult() in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\ETTaskCompletionSource.cs:line 171
+   at ETModel.ETTask`1.get_Result() in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\ETTask.cs:line 168
+   at ETModel.ETTask`1.Awaiter.GetResult() in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\ETTask.cs:line 254
+   at ETHotfix.DBProxyComponentEx.Query[T](DBProxyComponent self, Int64 id, Boolean needCache) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\DB\DBProxyComponentSystem.cs:line 61
+   at ETHotfix.A1001_GetUserInfo_Handler.Run(Session session, A1001_GetUserInfo_C2G request, A1001_GetUserInfo_G2C response, Action reply) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Landlords\Handler\Gate\A1001_GetUserInfo_Handler.cs:line 27 
+ TrySetException at offset 127 in file:line:column <filename unknown>:0:0
+FinishSlow at offset 24 in file:line:column <filename unknown>:0:0
+RunContinuations at offset 440 in file:line:column <filename unknown>:0:0
+RunCallback at offset 71 in file:line:column <filename unknown>:0:0
+<OutputWaitEtwEvents>b__12_0 at offset 323 in file:line:column <filename unknown>:0:0
+Run at offset 73 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\MoveNextRunner.cs:12:13
+MoveNext at offset 726 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Landlords\Handler\Gate\A1001_GetUserInfo_Handler.cs:27:17
+ReplyError at offset 75 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\AMRpcHandler.cs:9:4
+Error at offset 124 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Log.cs:32:4
+Error at offset 64 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+
+2020-07-29 14:23:49.7702 AllServer 0001 System.Exception: 查询数据库异常! UserInfo 101594971168 ---> System.FormatException: An error occurred while deserializing the Phone property of class ETModel.UserInfo: Cannot deserialize a 'String' from BsonType 'Int64'. ---> System.FormatException: Cannot deserialize a 'String' from BsonType 'Int64'.
+   at MongoDB.Bson.Serialization.Serializers.StringSerializer.DeserializeValue(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\Serializers\StringSerializer.cs:line 103
+   at MongoDB.Bson.Serialization.Serializers.SealedClassSerializerBase`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\Serializers\SealedClassSerializerBase.cs:line 42
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeMemberValue(BsonDeserializationContext context, BsonMemberMap memberMap) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 555
+   --- End of inner exception stack trace ---
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeMemberValue(BsonDeserializationContext context, BsonMemberMap memberMap) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 562
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 175
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 105
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize[TValue](IBsonSerializer`1 serializer, BsonDeserializationContext context) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 49
+   at MongoDB.Driver.Core.Operations.CursorBatchDeserializationHelper.DeserializeBatch[TDocument](RawBsonArray batch, IBsonSerializer`1 documentSerializer, MessageEncoderSettings messageEncoderSettings) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\Core\Operations\CursorBatchDeserializationHelper.cs:line 59
+   at MongoDB.Driver.Core.Operations.FindCommandOperation`1.CreateCursorBatch(BsonDocument commandResult) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\Core\Operations\FindCommandOperation.cs:line 483
+   at MongoDB.Driver.Core.Operations.FindCommandOperation`1.CreateCursor(IChannelSourceHandle channelSource, BsonDocument commandResult) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\Core\Operations\FindCommandOperation.cs:line 460
+   at MongoDB.Driver.Core.Operations.FindCommandOperation`1.ExecuteAsync(IReadBinding binding, CancellationToken cancellationToken) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\Core\Operations\FindCommandOperation.cs:line 525
+   at MongoDB.Driver.Core.Operations.FindOperation`1.ExecuteAsync(IReadBinding binding, CancellationToken cancellationToken) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\Core\Operations\FindOperation.cs:line 442
+   at MongoDB.Driver.OperationExecutor.ExecuteReadOperationAsync[TResult](IReadBinding binding, IReadOperation`1 operation, CancellationToken cancellationToken) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\OperationExecutor.cs:line 39
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperationAsync[TResult](IClientSessionHandle session, IReadOperation`1 operation, ReadPreference readPreference, CancellationToken cancellationToken) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\MongoCollectionImpl.cs:line 1055
+   at MongoDB.Driver.MongoCollectionImpl`1.UsingImplicitSessionAsync[TResult](Func`2 funcAsync, CancellationToken cancellationToken) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\MongoCollectionImpl.cs:line 1135
+   at ETModel.DBQueryTask.Run() in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\DB\DBQueryTask.cs:line 37
+   --- End of inner exception stack trace ---
+   at ETHotfix.DBQueryRequestHandler.Run(Session session, DBQueryRequest request, DBQueryResponse response, Action reply) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\DB\DBQueryRequestHandler.cs:line 14 
+ TrySetException at offset 127 in file:line:column <filename unknown>:0:0
+FinishSlow at offset 24 in file:line:column <filename unknown>:0:0
+RunContinuations at offset 440 in file:line:column <filename unknown>:0:0
+RunCallback at offset 71 in file:line:column <filename unknown>:0:0
+<OutputWaitEtwEvents>b__12_0 at offset 323 in file:line:column <filename unknown>:0:0
+Run at offset 73 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\MoveNextRunner.cs:12:13
+MoveNext at offset 548 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\DB\DBQueryRequestHandler.cs:14:5
+ReplyError at offset 75 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\AMRpcHandler.cs:9:4
+Error at offset 124 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Log.cs:32:4
+Error at offset 64 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+
+2020-07-29 14:23:49.9793 AllServer 0001 System.Exception: Rpc Error: ETModel.DBQueryRequest 102001
+   at ETModel.ETTaskCompletionSource`1.ETModel.IAwaiter<T>.GetResult() in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\ETTaskCompletionSource.cs:line 171
+   at ETModel.ETTask`1.get_Result() in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\ETTask.cs:line 168
+   at ETModel.ETTask`1.Awaiter.GetResult() in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\ETTask.cs:line 254
+   at ETHotfix.DBProxyComponentEx.Query[T](DBProxyComponent self, Int64 id, Boolean needCache) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\DB\DBProxyComponentSystem.cs:line 61
+   at ETHotfix.A1001_GetUserInfo_Handler.Run(Session session, A1001_GetUserInfo_C2G request, A1001_GetUserInfo_G2C response, Action reply) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Landlords\Handler\Gate\A1001_GetUserInfo_Handler.cs:line 27 
+ TrySetException at offset 127 in file:line:column <filename unknown>:0:0
+FinishSlow at offset 24 in file:line:column <filename unknown>:0:0
+RunContinuations at offset 440 in file:line:column <filename unknown>:0:0
+RunCallback at offset 71 in file:line:column <filename unknown>:0:0
+<OutputWaitEtwEvents>b__12_0 at offset 323 in file:line:column <filename unknown>:0:0
+Run at offset 73 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\MoveNextRunner.cs:12:13
+MoveNext at offset 726 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Landlords\Handler\Gate\A1001_GetUserInfo_Handler.cs:27:17
+ReplyError at offset 75 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\AMRpcHandler.cs:9:4
+Error at offset 124 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Log.cs:32:4
+Error at offset 64 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+
+2020-07-29 14:28:03.9123 AllServer 0001 System.Exception: 查询数据库异常! UserInfo 101594971168 ---> System.FormatException: An error occurred while deserializing the Phone property of class ETModel.UserInfo: Cannot deserialize a 'String' from BsonType 'Int64'. ---> System.FormatException: Cannot deserialize a 'String' from BsonType 'Int64'.
+   at MongoDB.Bson.Serialization.Serializers.StringSerializer.DeserializeValue(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\Serializers\StringSerializer.cs:line 103
+   at MongoDB.Bson.Serialization.Serializers.SealedClassSerializerBase`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\Serializers\SealedClassSerializerBase.cs:line 42
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeMemberValue(BsonDeserializationContext context, BsonMemberMap memberMap) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 555
+   --- End of inner exception stack trace ---
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeMemberValue(BsonDeserializationContext context, BsonMemberMap memberMap) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 562
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 175
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 105
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize[TValue](IBsonSerializer`1 serializer, BsonDeserializationContext context) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 49
+   at MongoDB.Driver.Core.Operations.CursorBatchDeserializationHelper.DeserializeBatch[TDocument](RawBsonArray batch, IBsonSerializer`1 documentSerializer, MessageEncoderSettings messageEncoderSettings) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\Core\Operations\CursorBatchDeserializationHelper.cs:line 59
+   at MongoDB.Driver.Core.Operations.FindCommandOperation`1.CreateCursorBatch(BsonDocument commandResult) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\Core\Operations\FindCommandOperation.cs:line 483
+   at MongoDB.Driver.Core.Operations.FindCommandOperation`1.CreateCursor(IChannelSourceHandle channelSource, BsonDocument commandResult) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\Core\Operations\FindCommandOperation.cs:line 460
+   at MongoDB.Driver.Core.Operations.FindCommandOperation`1.ExecuteAsync(IReadBinding binding, CancellationToken cancellationToken) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\Core\Operations\FindCommandOperation.cs:line 525
+   at MongoDB.Driver.Core.Operations.FindOperation`1.ExecuteAsync(IReadBinding binding, CancellationToken cancellationToken) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\Core\Operations\FindOperation.cs:line 442
+   at MongoDB.Driver.OperationExecutor.ExecuteReadOperationAsync[TResult](IReadBinding binding, IReadOperation`1 operation, CancellationToken cancellationToken) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\OperationExecutor.cs:line 39
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperationAsync[TResult](IClientSessionHandle session, IReadOperation`1 operation, ReadPreference readPreference, CancellationToken cancellationToken) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\MongoCollectionImpl.cs:line 1055
+   at MongoDB.Driver.MongoCollectionImpl`1.UsingImplicitSessionAsync[TResult](Func`2 funcAsync, CancellationToken cancellationToken) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\MongoCollectionImpl.cs:line 1135
+   at ETModel.DBQueryTask.Run() in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\DB\DBQueryTask.cs:line 37
+   --- End of inner exception stack trace ---
+   at ETHotfix.DBQueryRequestHandler.Run(Session session, DBQueryRequest request, DBQueryResponse response, Action reply) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\DB\DBQueryRequestHandler.cs:line 14 
+ TrySetException at offset 127 in file:line:column <filename unknown>:0:0
+FinishSlow at offset 24 in file:line:column <filename unknown>:0:0
+RunContinuations at offset 440 in file:line:column <filename unknown>:0:0
+RunCallback at offset 71 in file:line:column <filename unknown>:0:0
+<OutputWaitEtwEvents>b__12_0 at offset 323 in file:line:column <filename unknown>:0:0
+Run at offset 73 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\MoveNextRunner.cs:12:13
+MoveNext at offset 548 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\DB\DBQueryRequestHandler.cs:14:5
+ReplyError at offset 75 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\AMRpcHandler.cs:9:4
+Error at offset 124 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Log.cs:32:4
+Error at offset 64 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+
+2020-07-29 14:28:04.0977 AllServer 0001 System.Exception: Rpc Error: ETModel.DBQueryRequest 102001
+   at ETModel.ETTaskCompletionSource`1.ETModel.IAwaiter<T>.GetResult() in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\ETTaskCompletionSource.cs:line 171
+   at ETModel.ETTask`1.get_Result() in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\ETTask.cs:line 168
+   at ETModel.ETTask`1.Awaiter.GetResult() in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\ETTask.cs:line 254
+   at ETHotfix.DBProxyComponentEx.Query[T](DBProxyComponent self, Int64 id, Boolean needCache) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\DB\DBProxyComponentSystem.cs:line 61
+   at ETHotfix.A1001_GetUserInfo_Handler.Run(Session session, A1001_GetUserInfo_C2G request, A1001_GetUserInfo_G2C response, Action reply) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Landlords\Handler\Gate\A1001_GetUserInfo_Handler.cs:line 26 
+ TrySetException at offset 127 in file:line:column <filename unknown>:0:0
+FinishSlow at offset 24 in file:line:column <filename unknown>:0:0
+RunContinuations at offset 440 in file:line:column <filename unknown>:0:0
+RunCallback at offset 71 in file:line:column <filename unknown>:0:0
+<OutputWaitEtwEvents>b__12_0 at offset 323 in file:line:column <filename unknown>:0:0
+Run at offset 73 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\MoveNextRunner.cs:12:13
+MoveNext at offset 726 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Landlords\Handler\Gate\A1001_GetUserInfo_Handler.cs:26:17
+ReplyError at offset 75 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\AMRpcHandler.cs:9:4
+Error at offset 124 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Log.cs:32:4
+Error at offset 64 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+
+2020-07-29 15:13:48.9857 AllServer 0001 System.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at ETModel.UserInfo.Awake(String name) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\LandLords\Entity\DB\UserInfo.cs:line 41
+   at ETModel.UserInfoAwakeSystem.Awake(UserInfo self, String name) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\LandLords\Entity\DB\UserInfo.cs:line 11
+   at ETModel.AwakeSystem`2.Run(Object o, A a) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Object\IAwakeSystem.cs:line 54
+   at ETModel.EventSystem.Awake[P1](Component component, P1 p1) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Object\EventSystem.cs:line 283 
+ TrySetResult at offset 141 in file:line:column <filename unknown>:0:0
+RunContinuations at offset 440 in file:line:column <filename unknown>:0:0
+RunCallback at offset 71 in file:line:column <filename unknown>:0:0
+<OutputWaitEtwEvents>b__12_0 at offset 323 in file:line:column <filename unknown>:0:0
+Run at offset 73 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\MoveNextRunner.cs:12:13
+MoveNext at offset 1648 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Landlords\Handler\Realm\A0001_RegisterHandler.cs:44:17
+CreateWithId<T,A> at offset 503 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Object\ComponentFactory.cs:264:4
+Awake<P1> at offset 528 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Object\EventSystem.cs:283:6
+Error at offset 124 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Log.cs:32:4
+Error at offset 64 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+
+2020-07-29 15:14:48.4734 AllServer 0001 System.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at ETModel.UserInfo.Awake(String name) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\LandLords\Entity\DB\UserInfo.cs:line 41
+   at ETModel.UserInfoAwakeSystem.Awake(UserInfo self, String name) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\LandLords\Entity\DB\UserInfo.cs:line 11
+   at ETModel.AwakeSystem`2.Run(Object o, A a) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Object\IAwakeSystem.cs:line 54
+   at ETModel.EventSystem.Awake[P1](Component component, P1 p1) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Object\EventSystem.cs:line 283 
+ TrySetResult at offset 141 in file:line:column <filename unknown>:0:0
+RunContinuations at offset 440 in file:line:column <filename unknown>:0:0
+RunCallback at offset 71 in file:line:column <filename unknown>:0:0
+<OutputWaitEtwEvents>b__12_0 at offset 323 in file:line:column <filename unknown>:0:0
+Run at offset 73 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\MoveNextRunner.cs:12:13
+MoveNext at offset 1648 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Landlords\Handler\Realm\A0001_RegisterHandler.cs:44:17
+CreateWithId<T,A> at offset 503 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Object\ComponentFactory.cs:264:4
+Awake<P1> at offset 528 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Object\EventSystem.cs:283:6
+Error at offset 124 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Log.cs:32:4
+Error at offset 64 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+
+2020-07-29 15:19:24.7811 AllServer 0001 System.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at ETModel.UserInfo.Awake(String name) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\LandLords\Entity\DB\UserInfo.cs:line 41
+   at ETModel.UserInfoAwakeSystem.Awake(UserInfo self, String name) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\LandLords\Entity\DB\UserInfo.cs:line 11
+   at ETModel.AwakeSystem`2.Run(Object o, A a) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Object\IAwakeSystem.cs:line 54
+   at ETModel.EventSystem.Awake[P1](Component component, P1 p1) in D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Object\EventSystem.cs:line 283 
+ TrySetResult at offset 141 in file:line:column <filename unknown>:0:0
+RunContinuations at offset 440 in file:line:column <filename unknown>:0:0
+RunCallback at offset 71 in file:line:column <filename unknown>:0:0
+<OutputWaitEtwEvents>b__12_0 at offset 323 in file:line:column <filename unknown>:0:0
+Run at offset 73 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\MoveNextRunner.cs:12:13
+MoveNext at offset 1648 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Landlords\Handler\Realm\A0001_RegisterHandler.cs:44:17
+CreateWithId<T,A> at offset 503 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Object\ComponentFactory.cs:264:4
+Awake<P1> at offset 528 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Object\EventSystem.cs:283:6
+Error at offset 124 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Log.cs:32:4
+Error at offset 64 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+
+2020-07-29 15:37:10.1741 AllServer 0001 重复登录！ 
+ Handle at offset 504 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\Message\MessageDispatherComponentSystem.cs:92:6
+Handle at offset 373 in file:line:column <filename unknown>:0:0
+Start<TStateMachine> at offset 80 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\AsyncETVoidMethodBuilder.cs:74:13
+MoveNext at offset 1394 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\AMRpcHandler.cs:45:6
+Run at offset 296 in file:line:column <filename unknown>:0:0
+Start<TStateMachine> at offset 80 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\AsyncETTaskMethodBuilder.cs:126:13
+MoveNext at offset 609 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Landlords\Handler\Gate\A0003_LoginGateHanler.cs:34:17
+Add at offset 210 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\LandLords\Component\UserComponent.cs:25:17
+Error at offset 82 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Log.cs:37:4
+Error at offset 64 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+
+2020-07-29 17:34:02.7567 AllServer 0001 重复登录！ 
+ Handle at offset 504 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\Message\MessageDispatherComponentSystem.cs:92:6
+Handle at offset 373 in file:line:column <filename unknown>:0:0
+Start<TStateMachine> at offset 80 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\AsyncETVoidMethodBuilder.cs:74:13
+MoveNext at offset 1394 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\AMRpcHandler.cs:45:6
+Run at offset 296 in file:line:column <filename unknown>:0:0
+Start<TStateMachine> at offset 80 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\AsyncETTaskMethodBuilder.cs:126:13
+MoveNext at offset 609 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Landlords\Handler\Gate\A0003_LoginGateHanler.cs:34:17
+Add at offset 210 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\LandLords\Component\UserComponent.cs:25:17
+Error at offset 82 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Log.cs:37:4
+Error at offset 64 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+
+2020-07-29 17:46:47.6915 AllServer 0001 重复登录！ 
+ Handle at offset 504 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\Message\MessageDispatherComponentSystem.cs:92:6
+Handle at offset 373 in file:line:column <filename unknown>:0:0
+Start<TStateMachine> at offset 80 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\AsyncETVoidMethodBuilder.cs:74:13
+MoveNext at offset 1394 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\AMRpcHandler.cs:45:6
+Run at offset 296 in file:line:column <filename unknown>:0:0
+Start<TStateMachine> at offset 80 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\AsyncETTaskMethodBuilder.cs:126:13
+MoveNext at offset 609 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Landlords\Handler\Gate\A0003_LoginGateHanler.cs:34:17
+Add at offset 210 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\LandLords\Component\UserComponent.cs:25:17
+Error at offset 82 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Log.cs:37:4
+Error at offset 64 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+

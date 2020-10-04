@@ -1,0 +1,12 @@
+D:\unity3dwork\ACYQP\Landlords_Server01\Bin\libkcp.dylib
+D:\unity3dwork\ACYQP\Landlords_Server01\Bin\libkcp.so
+D:\unity3dwork\ACYQP\Landlords_Server01\Bin\ET.Core.deps.json
+D:\unity3dwork\ACYQP\Landlords_Server01\Bin\ET.Core.dll
+D:\unity3dwork\ACYQP\Landlords_Server01\Bin\ET.Core.pdb
+D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\obj\Debug\Server.ET.Core.csprojAssemblyReference.cache
+D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\obj\Debug\Server.ET.Core.AssemblyInfoInputs.cache
+D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\obj\Debug\Server.ET.Core.AssemblyInfo.cs
+D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\obj\Debug\Server.ET.Core.csproj.CoreCompileInputs.cache
+D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\obj\Debug\Server.ET.Core.csproj.CopyComplete
+D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\obj\Debug\ET.Core.dll
+D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\obj\Debug\ET.Core.pdb
