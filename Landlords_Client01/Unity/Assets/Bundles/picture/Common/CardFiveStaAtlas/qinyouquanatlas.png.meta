@@ -1,0 +1,1184 @@
+fileFormatVersion: 2
+guid: 48889b1c164d4c643aafbceeea06d9c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: qinyouquanatlas_1
+  - first:
+      213: 21300002
+    second: qinyouquanatlas_11
+  - first:
+      213: 21300004
+    second: qinyouquanatlas_12
+  - first:
+      213: 21300006
+    second: qinyouquanatlas_13
+  - first:
+      213: 21300008
+    second: qinyouquanatlas_14
+  - first:
+      213: 21300010
+    second: qinyouquanatlas_15
+  - first:
+      213: 21300012
+    second: qinyouquanatlas_16
+  - first:
+      213: 21300014
+    second: qinyouquanatlas_17
+  - first:
+      213: 21300016
+    second: qinyouquanatlas_18
+  - first:
+      213: 21300018
+    second: qinyouquanatlas_19
+  - first:
+      213: 21300020
+    second: qinyouquanatlas_2
+  - first:
+      213: 21300022
+    second: qinyouquanatlas_20
+  - first:
+      213: 21300024
+    second: qinyouquanatlas_21
+  - first:
+      213: 21300026
+    second: qinyouquanatlas_22
+  - first:
+      213: 21300028
+    second: qinyouquanatlas_23
+  - first:
+      213: 21300030
+    second: qinyouquanatlas_24
+  - first:
+      213: 21300032
+    second: qinyouquanatlas_25
+  - first:
+      213: 21300034
+    second: qinyouquanatlas_26
+  - first:
+      213: 21300036
+    second: qinyouquanatlas_27
+  - first:
+      213: 21300038
+    second: qinyouquanatlas_28
+  - first:
+      213: 21300040
+    second: qinyouquanatlas_29
+  - first:
+      213: 21300042
+    second: qinyouquanatlas_3
+  - first:
+      213: 21300044
+    second: qinyouquanatlas_30
+  - first:
+      213: 21300046
+    second: qinyouquanatlas_31
+  - first:
+      213: 21300048
+    second: qinyouquanatlas_32
+  - first:
+      213: 21300050
+    second: qinyouquanatlas_33
+  - first:
+      213: 21300052
+    second: qinyouquanatlas_34
+  - first:
+      213: 21300054
+    second: qinyouquanatlas_35
+  - first:
+      213: 21300056
+    second: qinyouquanatlas_37
+  - first:
+      213: 21300058
+    second: qinyouquanatlas_38
+  - first:
+      213: 21300060
+    second: qinyouquanatlas_39
+  - first:
+      213: 21300062
+    second: qinyouquanatlas_4
+  - first:
+      213: 21300064
+    second: qinyouquanatlas_40
+  - first:
+      213: 21300066
+    second: qinyouquanatlas_41
+  - first:
+      213: 21300068
+    second: qinyouquanatlas_42
+  - first:
+      213: 21300070
+    second: qinyouquanatlas_43
+  - first:
+      213: 21300072
+    second: qinyouquanatlas_44
+  - first:
+      213: 21300074
+    second: qinyouquanatlas_45
+  - first:
+      213: 21300076
+    second: qinyouquanatlas_5
+  - first:
+      213: 21300078
+    second: qinyouquanatlas_6
+  - first:
+      213: 21300080
+    second: qinyouquanatlas_7
+  - first:
+      213: 21300082
+    second: qinyouquanatlas_8
+  - first:
+      213: 21300084
+    second: qinyouquanatlas_9
+  - first:
+      213: 21300086
+    second: qinyouquanatlas_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 48
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: qinyouquanatlas_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 396
+        width: 666
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c4fa47c399e0f4d8692d26f1145d8c
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 172
+        width: 680
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e934bb4532e2c1409cbe6110c59c0e3
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_12
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 155
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c0b38d55577a447be07b8347a179ac
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_13
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 124
+        width: 138
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fb81e6ae20a044499ac098a17749c0
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_14
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 574
+        width: 208
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36a57d5b34fb6f4181dcdda93f4a630
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 163
+        width: 80
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 26, y: 50, z: 24, w: 58}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f47275e25f8c0d42b8fe2280c8a85fd
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_16
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 196
+        width: 168
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcde3d4a2eebc0a4db61f125a9a1ff38
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_17
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 910
+        width: 40
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db707c0d4f0a7844dbabca5e7f231f48
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_18
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 662
+        width: 40
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 153, z: 13, w: 135}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce776c7364b80b04e9070c0cc4337741
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_19
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 230
+        width: 31
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 9, w: 23}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9eaaeb623e405c4cac27cbc984f5b5d
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_2
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 561
+        width: 94
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6253e849c041b1c4291252da0fb81c8f
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_20
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 664
+        width: 87
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f4a41513a8cdb45a5c59e59f9580c6
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_21
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 344
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaaa8e8050260f349a6b4f6c65adffa0
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_22
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 332
+        width: 132
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955438a4da84d52459697e5b63c7f407
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 88
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 29, y: 18, z: 28, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218aa1f4579ed534c8b24e8f1fe40976
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_24
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 255
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfc34510f365d545a5f5c260c9bcbd1
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_25
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 220
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 17, z: 16, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30592eb9c8f3cb14391a48d758fc2d58
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_26
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 117
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f30122c55a0c144885b780dbbebc32
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_27
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 228
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9930a9117b3cdca41a164f602def5831
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_28
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 194
+        width: 343
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6003ab2500efdce4fbe914985cfb0939
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_29
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 587
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5ac2d39d738ee40abc82a57d1356d3
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_3
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 552
+        width: 370
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248b840a2caf5dd4c8442965ba709b14
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_30
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 621
+        width: 132
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fedb0c0c4caf9249b6ac9df3ded1cb1
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 314
+        width: 363
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 149, y: 32, z: 129, w: 29}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcd36d178a237d44b7855cae31bfbbd
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_32
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 864
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df987fe8f8eb27a49b7b9956f60bd726
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_33
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 248
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d458730d5e4e8ef4b968243252579030
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_34
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 260
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f104e604c3680941b0ddfa1a2a50da8
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_35
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 70
+        width: 60
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b0b87298e621c4fa4fe9ec234cf9c6
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_37
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 204
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bad531e34e9f384eb0def3be99cf4ca
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_38
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 128
+        width: 74
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634fcb51273608047bbb564b71541c68
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 62
+        width: 82
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 33, y: 46, z: 28, w: 43}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d339825e9fa1cde4d80434cce68b8cce
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 552
+        width: 370
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cbc792dec6eaf4d99a7da0b48baac2
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_40
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 854
+        width: 45
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8aafb0eb7440c4b8349a4b169dc613
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_41
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 243
+        width: 66
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3374163767b5247aab4a944d6a5904
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_42
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 700
+        width: 76
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea6eab7adda4d64895c4bce30024b54
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_43
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 84
+        width: 40
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 35, z: 13, w: 39}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4c842aab1f17043966f08578cb002e
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_44
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 302
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7536fde6b94d1de4d94e405b785fb7ed
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_45
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 81
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b637ace4546e774cb0658f17a369a3d
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 87
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12ce550b5201974a80581dc3759c7da
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 130
+        width: 138
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2352594ac56a0041a0e59e48bab25f1
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 178
+        width: 134
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 40, z: 53, w: 43}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d2c564cdb2f1c43bb6bcf71ff2668f
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_7
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 573
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368e29e0fa5b4ee4baf55beafd9d5d3a
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_8
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 635
+        width: 103
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce615dce234f7e643956e48fa9a3da9d
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qinyouquanatlas_9
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 635
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858d9cf30bb2f654a96187f4ce8735bd
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,129 @@
+2020-09-11 09:28:49.2581 AllServer 0001 (Program.cs:36) server start........................ 1 AllServer
+2020-09-11 09:57:03.1035 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101596176692
+2020-09-11 09:57:03.1245 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101596176692连接断开
+2020-09-11 09:57:03.1294 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101596176692下线
+2020-09-11 09:58:54.0604 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101596176692
+2020-09-11 09:58:54.0604 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101596176692连接断开
+2020-09-11 09:58:54.0653 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101596176692下线
+2020-09-11 10:00:50.8709 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101596176692
+2020-09-11 10:00:50.8709 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101596176692连接断开
+2020-09-11 10:00:50.8771 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101596176692下线
+2020-09-11 10:01:08.5676 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101596176692
+2020-09-11 10:01:08.5676 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101596176692连接断开
+2020-09-11 10:01:08.5676 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101596176692下线
+2020-09-11 10:02:28.3306 AllServer 0001 (RealmHelper.cs:70) 它处登录，原登录踢下线《====
+2020-09-11 10:02:28.3306 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101596176692
+2020-09-11 10:02:28.3306 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101596176692连接断开
+2020-09-11 10:02:28.3488 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101596176692下线
+2020-09-11 10:02:31.0194 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101596176692
+2020-09-11 10:02:31.0194 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101596176692连接断开
+2020-09-11 10:02:31.0194 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101596176692下线
+2020-09-11 10:03:04.5059 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101596176692
+2020-09-11 10:03:04.5059 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101596176692连接断开
+2020-09-11 10:03:04.5059 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101596176692下线
+2020-09-11 10:03:13.9445 AllServer 0001 (LocationComponent.cs:62) location add key: 281474976710858 instanceId: 281474976710858
+2020-09-11 10:03:13.9725 AllServer 0001 (LocationComponent.cs:62) location add key: 281474976710860 instanceId: 281474976710860
+2020-09-11 10:03:13.9855 AllServer 0001 (LandMatchComponentSystem.cs:111) 玩家101596176692进入房间
+2020-09-11 10:03:14.0186 AllServer 0001 (M2G_T_MatchSucess_Handler.cs:14) 玩家101596176692匹配成功 更新客户端Actor转发向Gamer
+2020-09-11 10:03:16.9233 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101596176692
+2020-09-11 10:03:16.9233 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101596176692连接断开
+2020-09-11 10:03:16.9233 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101596176692下线
+2020-09-11 10:04:35.4535 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101596176692
+2020-09-11 10:04:35.4535 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101596176692连接断开
+2020-09-11 10:04:35.4535 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101596176692下线
+2020-09-11 10:17:43.9051 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101596176692
+2020-09-11 10:17:43.9110 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101596176692连接断开
+2020-09-11 10:17:43.9110 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101596176692下线
+2020-09-11 10:32:08.8621 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101596176692
+2020-09-11 10:32:08.8621 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101596176692连接断开
+2020-09-11 10:32:08.8621 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101596176692下线
+2020-09-11 10:53:32.6258 AllServer 0001 (LocationComponent.cs:62) location add key: 281474976711083 instanceId: 281474976711083
+2020-09-11 10:53:32.6258 AllServer 0001 (LandMatchComponentSystem.cs:111) 玩家101599792668进入房间
+2020-09-11 10:53:32.6418 AllServer 0001 (M2G_T_MatchSucess_Handler.cs:14) 玩家101599792668匹配成功 更新客户端Actor转发向Gamer
+2020-09-11 10:53:37.9083 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101599792668
+2020-09-11 10:53:37.9083 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101599792668连接断开
+2020-09-11 10:53:37.9083 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101599792668下线
+2020-09-11 14:10:52.5393 AllServer 0001 (Program.cs:36) server start........................ 1 AllServer
+2020-09-11 14:13:48.1409 AllServer 0001 (Program.cs:36) server start........................ 1 AllServer
+2020-09-11 14:16:34.6721 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101599804845
+2020-09-11 14:16:34.6721 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101599804845连接断开
+2020-09-11 14:16:34.6892 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101599804845下线
+2020-09-11 14:17:31.6398 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101599804845
+2020-09-11 14:17:31.6445 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101599804845连接断开
+2020-09-11 14:17:31.6445 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101599804845下线
+2020-09-11 14:19:44.0546 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101599804845
+2020-09-11 14:19:44.0546 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101599804845连接断开
+2020-09-11 14:19:44.0705 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101599804845下线
+2020-09-11 14:22:22.0976 AllServer 0001 (Program.cs:36) server start........................ 1 AllServer
+2020-09-11 14:24:15.9961 AllServer 0001 (Program.cs:36) server start........................ 1 AllServer
+2020-09-11 14:24:35.2426 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101599804845
+2020-09-11 14:24:35.2426 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101599804845连接断开
+2020-09-11 14:24:35.2517 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101599804845下线
+2020-09-11 14:30:14.7322 AllServer 0001 (Program.cs:36) server start........................ 1 AllServer
+2020-09-11 14:34:16.6023 AllServer 0001 (Program.cs:36) server start........................ 1 AllServer
+2020-09-11 14:35:11.0383 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101599806080
+2020-09-11 14:35:11.0383 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101599806080连接断开
+2020-09-11 14:35:11.0504 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101599806080下线
+2020-09-11 14:36:12.4465 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101599806132
+2020-09-11 14:36:12.4465 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101599806132连接断开
+2020-09-11 14:36:12.4585 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101599806132下线
+2020-09-11 15:00:25.4718 AllServer 0001 (Program.cs:36) server start........................ 1 AllServer
+2020-09-11 15:04:25.7648 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101599806132
+2020-09-11 15:04:25.7683 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101599806132连接断开
+2020-09-11 15:04:25.7683 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101599806132下线
+2020-09-11 15:06:06.1574 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101599806132
+2020-09-11 15:06:06.1574 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101599806132连接断开
+2020-09-11 15:06:06.1724 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101599806132下线
+2020-09-11 15:10:32.9554 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101599806132
+2020-09-11 15:10:32.9554 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101599806132连接断开
+2020-09-11 15:10:32.9554 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101599806132下线
+2020-09-11 15:12:11.8335 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101599806132
+2020-09-11 15:12:11.8335 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101599806132连接断开
+2020-09-11 15:12:11.8335 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101599806132下线
+2020-09-11 15:14:00.5896 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101599806132
+2020-09-11 15:14:00.5896 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101599806132连接断开
+2020-09-11 15:14:00.5995 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101599806132下线
+2020-09-11 15:16:28.5269 AllServer 0001 (Program.cs:36) server start........................ 1 AllServer
+2020-09-11 15:16:52.2120 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101599806132
+2020-09-11 15:16:52.2120 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101599806132连接断开
+2020-09-11 15:16:52.2244 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101599806132下线
+2020-09-11 15:19:32.6948 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101599806132
+2020-09-11 15:19:32.6948 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101599806132连接断开
+2020-09-11 15:19:32.7048 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101599806132下线
+2020-09-11 15:22:58.3629 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101599806132
+2020-09-11 15:22:58.3629 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101599806132连接断开
+2020-09-11 15:22:58.3629 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101599806132下线
+2020-09-11 15:25:47.3633 AllServer 0001 (LocationComponent.cs:62) location add key: 281474976710790 instanceId: 281474976710790
+2020-09-11 15:25:47.4120 AllServer 0001 (LocationComponent.cs:62) location add key: 281474976710792 instanceId: 281474976710792
+2020-09-11 15:25:47.4245 AllServer 0001 (LandMatchComponentSystem.cs:111) 玩家101599806132进入房间
+2020-09-11 15:25:47.4644 AllServer 0001 (M2G_T_MatchSucess_Handler.cs:14) 玩家101599806132匹配成功 更新客户端Actor转发向Gamer
+2020-09-11 15:25:49.7939 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101599806132
+2020-09-11 15:25:49.7970 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101599806132连接断开
+2020-09-11 15:25:49.7970 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101599806132下线
+2020-09-11 16:34:02.7697 AllServer 0001 (Program.cs:36) server start........................ 1 AllServer
+2020-09-11 16:34:42.7615 AllServer 0001 (LocationComponent.cs:62) location add key: 281474976710745 instanceId: 281474976710745
+2020-09-11 16:34:42.8143 AllServer 0001 (LocationComponent.cs:62) location add key: 281474976710747 instanceId: 281474976710747
+2020-09-11 16:34:42.8313 AllServer 0001 (LandMatchComponentSystem.cs:111) 玩家101599806132进入房间
+2020-09-11 16:34:42.8930 AllServer 0001 (M2G_T_MatchSucess_Handler.cs:14) 玩家101599806132匹配成功 更新客户端Actor转发向Gamer
+2020-09-11 16:35:40.1991 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101599806132
+2020-09-11 16:35:40.2038 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101599806132连接断开
+2020-09-11 16:35:40.2038 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101599806132下线
+2020-09-11 17:43:45.7143 AllServer 0001 (Program.cs:36) server start........................ 1 AllServer
+2020-09-11 17:47:01.7617 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101599806132
+2020-09-11 17:47:01.7675 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101599806132连接断开
+2020-09-11 17:47:01.7675 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101599806132下线
+2020-09-11 17:47:21.8683 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101599806132
+2020-09-11 17:47:21.8683 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101599806132连接断开
+2020-09-11 17:47:21.8783 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101599806132下线
+2020-09-11 18:18:40.4022 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101599806132
+2020-09-11 18:18:40.4063 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101599806132连接断开
+2020-09-11 18:18:40.4063 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101599806132下线
+2020-09-11 18:18:52.6496 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101599806132
+2020-09-11 18:18:52.6496 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101599806132连接断开
+2020-09-11 18:18:52.6587 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101599806132下线
+2020-09-11 18:19:17.4622 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101599806132
+2020-09-11 18:19:17.4622 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101599806132连接断开
+2020-09-11 18:19:17.4752 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101599806132下线
+2020-09-11 18:20:45.5425 AllServer 0001 (SessionUserComponentSystem.cs:14) 销毁User和Session101599806132
+2020-09-11 18:20:45.5425 AllServer 0001 (SessionUserComponentSystem.cs:26) 将玩家101599806132连接断开
+2020-09-11 18:20:45.5513 AllServer 0001 (A0005_PlayerOffline.cs:13) 玩家101599806132下线

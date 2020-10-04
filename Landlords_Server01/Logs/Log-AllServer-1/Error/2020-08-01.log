@@ -1,0 +1,96 @@
+2020-08-01 10:31:03.4232 AllServer 0001 not found actor: ETModel.Actor_GamerExitRoom_Ntt 
+ Update at offset 143 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\OneThreadSynchronizationContext.cs:26:5
+<Post>b__0 at offset 83 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\OneThreadSynchronizationContext.cs:38:31
+OnRecvComplete at offset 596 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Network\TCP\TChannel.cs:279:6
+OnRead at offset 83 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Network\AChannel.cs:55:4
+OnRead at offset 76 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:120:5
+Run at offset 497 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:154:4
+RunMessage at offset 157 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:160:4
+Dispatch at offset 1366 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\Message\InnerMessageDispatcher.cs:48:7
+Error at offset 82 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Log.cs:37:4
+Error at offset 64 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+
+2020-08-01 10:31:04.6467 AllServer 0001 not found actor: ETModel.Actor_GamerEnterRoom_Ntt 
+ Update at offset 143 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\OneThreadSynchronizationContext.cs:26:5
+<Post>b__0 at offset 83 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\OneThreadSynchronizationContext.cs:38:31
+OnRecvComplete at offset 596 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Network\TCP\TChannel.cs:279:6
+OnRead at offset 83 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Network\AChannel.cs:55:4
+OnRead at offset 76 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:120:5
+Run at offset 497 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:154:4
+RunMessage at offset 157 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:160:4
+Dispatch at offset 1366 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\Message\InnerMessageDispatcher.cs:48:7
+Error at offset 82 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Log.cs:37:4
+Error at offset 64 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+
+2020-08-01 10:31:09.0172 AllServer 0001 not found actor: ETModel.Actor_GamerExitRoom_Ntt 
+ Update at offset 143 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\OneThreadSynchronizationContext.cs:26:5
+<Post>b__0 at offset 83 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\OneThreadSynchronizationContext.cs:38:31
+OnRecvComplete at offset 596 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Network\TCP\TChannel.cs:279:6
+OnRead at offset 83 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Network\AChannel.cs:55:4
+OnRead at offset 76 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:120:5
+Run at offset 497 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:154:4
+RunMessage at offset 157 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:160:4
+Dispatch at offset 1366 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\Message\InnerMessageDispatcher.cs:48:7
+Error at offset 82 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Log.cs:37:4
+Error at offset 64 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+
+2020-08-01 10:31:10.0334 AllServer 0001 not found actor: ETModel.Actor_GamerEnterRoom_Ntt 
+ Update at offset 143 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\OneThreadSynchronizationContext.cs:26:5
+<Post>b__0 at offset 83 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\OneThreadSynchronizationContext.cs:38:31
+OnRecvComplete at offset 596 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Network\TCP\TChannel.cs:279:6
+OnRead at offset 83 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Network\AChannel.cs:55:4
+OnRead at offset 76 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:120:5
+Run at offset 497 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:154:4
+RunMessage at offset 157 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:160:4
+Dispatch at offset 1366 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\Message\InnerMessageDispatcher.cs:48:7
+Error at offset 82 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Log.cs:37:4
+Error at offset 64 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+
+2020-08-01 10:31:29.9246 AllServer 0001 not found actor: ETModel.Actor_GamerExitRoom_Ntt 
+ Update at offset 143 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\OneThreadSynchronizationContext.cs:26:5
+<Post>b__0 at offset 83 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\OneThreadSynchronizationContext.cs:38:31
+OnRecvComplete at offset 596 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Network\TCP\TChannel.cs:279:6
+OnRead at offset 83 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Network\AChannel.cs:55:4
+OnRead at offset 76 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:120:5
+Run at offset 497 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:154:4
+RunMessage at offset 157 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:160:4
+Dispatch at offset 1366 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\Message\InnerMessageDispatcher.cs:48:7
+Error at offset 82 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Log.cs:37:4
+Error at offset 64 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+
+2020-08-01 11:07:27.2404 AllServer 0001 not found actor: ETModel.Actor_GamerExitRoom_Ntt 
+ Update at offset 143 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\OneThreadSynchronizationContext.cs:26:5
+<Post>b__0 at offset 83 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\OneThreadSynchronizationContext.cs:38:31
+OnRecvComplete at offset 596 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Network\TCP\TChannel.cs:279:6
+OnRead at offset 83 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Network\AChannel.cs:55:4
+OnRead at offset 76 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:120:5
+Run at offset 497 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:154:4
+RunMessage at offset 157 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:160:4
+Dispatch at offset 1366 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\Message\InnerMessageDispatcher.cs:48:7
+Error at offset 82 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Log.cs:37:4
+Error at offset 64 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+
+2020-08-01 11:53:04.2524 AllServer 0001 消息没有处理: 10014 { "_t" : "A1002_SetUserInfo_G2C", "RpcId" : 1, "Error" : 0, "Message" : "", "UserName" : "", "Level" : 0, "Money" : NumberLong(0), "UserInfoId" : "", "Phone" : "" } 
+ OnRead at offset 76 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:120:5
+Run at offset 497 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:154:4
+RunMessage at offset 157 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:160:4
+Dispatch at offset 91 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\Message\OuterMessageDispatcher.cs:9:4
+DispatchAsync at offset 265 in file:line:column <filename unknown>:0:0
+Start<TStateMachine> at offset 80 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\AsyncETVoidMethodBuilder.cs:74:13
+MoveNext at offset 2384 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\Message\OuterMessageDispatcher.cs:82:7
+Handle at offset 312 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\Message\MessageDispatherComponentSystem.cs:84:5
+Error at offset 82 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Log.cs:37:4
+Error at offset 64 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+
+2020-08-01 11:53:38.6145 AllServer 0001 消息没有处理: 10014 { "_t" : "A1002_SetUserInfo_G2C", "RpcId" : 1, "Error" : 0, "Message" : "", "UserName" : "", "Level" : 0, "Money" : NumberLong(0), "UserInfoId" : "", "Phone" : "" } 
+ OnRead at offset 76 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:120:5
+Run at offset 497 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:154:4
+RunMessage at offset 157 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:160:4
+Dispatch at offset 91 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\Message\OuterMessageDispatcher.cs:9:4
+DispatchAsync at offset 265 in file:line:column <filename unknown>:0:0
+Start<TStateMachine> at offset 80 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Async\AsyncETVoidMethodBuilder.cs:74:13
+MoveNext at offset 2384 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\Message\OuterMessageDispatcher.cs:82:7
+Handle at offset 312 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\Hotfix\Module\Message\MessageDispatherComponentSystem.cs:84:5
+Error at offset 82 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Log.cs:37:4
+Error at offset 64 in file:line:column D:\unity3dwork\ACYQP\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+
